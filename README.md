@@ -49,6 +49,7 @@ There are two categories of seeds: sized and unsized.
 Here's an example of each:
 
 Sized: `n=5;43501211`
+
 Unsized: `30910045`
 
 The only difference is that sized seeds force the board size while unsized seeds don't.
