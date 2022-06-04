@@ -15,13 +15,9 @@ Board sizes range from 3x3 to 10x10. Any smaller and the card generation algorit
 
 ### Omissions from the Item Pool
 #### Rare Items:
- - Aegis
- - Alien Head
- - Shattering Justice
  - Defensive Microbots
 #### Boss / World Items:
 - Artifact Key
-- Halcyon Seed
 - Irradiant Pearl
 - Pearl
 #### Equipment Items:
